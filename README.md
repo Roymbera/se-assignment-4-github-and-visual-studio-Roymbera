@@ -41,6 +41,7 @@ GitHub supports collaborative software development through a variety of features
 
 
 Repositories on GitHub:
+
 2. What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 
 A GitHub repository, often referred to simply as a "repo," is a centralized location on GitHub where you can store and manage your code, files, and project data
@@ -55,6 +56,7 @@ Click "Create repository".
 
 
 Version Control with Git:
+
 3. Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 
 Git is a Version Control System (VCS) designed to make it easier to have multiple versions of a code base, sometimes across multiple developers or teams.It allows you to see changes you make to your code and easily revert them.
@@ -112,6 +114,7 @@ CI pipelines can also handle deployment tasks, ensuring that new features are de
 
 
 Branching and Merging in GitHub:
+
 4. What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
 
 Branches in GitHub are separate versions of a repository's codebase that diverge from the main branch, typically main or master.
@@ -157,6 +160,7 @@ Confirm the merge and resolve any merge conflicts if necessary.
 
 
 Pull Requests and Code Reviews:
+
 5. What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
 
 A pull request is a proposal to merge a set of changes from one branch into another. In a pull request, collaborators can review and discuss the proposed set of changes before they integrate the changes into the main codebase.
@@ -204,6 +208,7 @@ After approval and any necessary modifications, the repository maintainer (or co
 
 
 GitHub Actions:
+
 6. Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
 
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
@@ -217,6 +222,7 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 
 
 Introduction to Visual Studio:
+
 7. What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 
 Visual Studio is an integrated development environment (IDE) developed by Microsoft. It is used to develop computer programs including websites, web apps, web services and mobile apps.
@@ -233,6 +239,7 @@ Integration and Extensibility: Visual Studio provides deep integration with Micr
 
 
 Integrating GitHub with Visual Studio:
+
 8. Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?
 
 Open Visual Studio: Launch Visual Studio on your machine.
@@ -271,6 +278,7 @@ Integrating GitHub with Visual Studio enhances development workflows by providin
 
 
 Debugging in Visual Studio:
+
 9. Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
 
 Call Stack:
@@ -306,6 +314,7 @@ These tools provide a systematic approach to troubleshooting and debugging softw
 
 
 Collaborative Development using GitHub and Visual Studio:
+
 10. Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 
 1. Meaningful Commitment Reports:
