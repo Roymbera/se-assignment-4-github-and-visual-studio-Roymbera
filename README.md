@@ -330,10 +330,15 @@ By leveraging the integration of GitHub and Visual Studio, this e-commerce devel
 
 References:
 https://www.linkedin.com/pulse/git-github-support-collaborative-development-dhruv-soni-zbjmf/
+
 https://code.visualstudio.com/docs/sourcecontrol/github
+
 https://en.wikipedia.org/wiki/Visual_Studio
+
 https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
 https://chatgpt.com/
+
 PLP Academy study modules
 
 Submission Guidelines:
